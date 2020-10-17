@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarlosGub</string>
+
+    <!--region Splash Activity-->
+    <string name="splash_splash_text">SplashActivity Text</string>
+    <!--endregion-->
+
+    <!--region Main Activity-->
+    <string name="main_welcome">Welcome</string>
+    <!--endregion-->
+</resources>
