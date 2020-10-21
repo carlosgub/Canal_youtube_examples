@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewsApp</string>
+
+    <!--region Main Activity-->
+    <string name="main_title">Formulario</string>
+    <string name="main_first_name_title">Ingresa tu nombre</string>
+    <string name="main_first_name_hint">Ingresa tus nombres</string>
+    <string name="main_last_name_title">Ingresa tus apellidos</string>
+    <string name="main_last_name_hint">Ingresa tus apellidos</string>
+    <string name="main_sign_up">Registrate</string>
+    <!--endregion-->
+</resources>
