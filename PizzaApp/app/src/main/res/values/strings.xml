@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+
+    <!--region Formats-->
+    <string name="format_price">$ %.2f</string>
+    <!--endregion-->
+
+    <!--region Pizza Detail Activity-->
+    <string name="pizza_detail_add_to_cart">Add to cart</string>
+    <string name="pizza_detail_description">Meat lovers, get ready to meet your match! Loaded with beef sausages, ground beef.</string>
+    <string name="pizza_detail_delivery_title">Delivery</string>
+    <string name="pizza_detail_delivery">20 min</string>
+    <string name="pizza_detail_weight_title">Weight</string>
+    <string name="pizza_detail_weight">800 gr</string>
+    <string name="pizza_detail_energy_title">Energy</string>
+    <string name="pizza_detail_energy">355 kcal</string>
+    <string name="pizza_menu_top_menu_title">Top Menu</string>
+    <string name="pizza_menu_top_menu_see_all_title">See all</string>
+    <string name="pizza_menu_hot_promo_title">Hot promo!</string>
+    <string name="pizza_menu_hot_promo_time_left">3 days left</string>
+    <string name="pizza_menu_hot_promo_category">Pizza</string>
+    <string name="pizza_menu_hot_promo_name">Pizza Beef Cheese</string>
+    <string name="pizza_menu_hot_promo_discount_price">$ 7.98</string>
+    <string name="pizza_menu_hot_promo_price">$ 5.98</string>
+    <string name="pizza_menu_search_hint">Find do you want</string>
+    <!--endregion-->
+</resources>
