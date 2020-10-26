@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="343.176" height="107.955" viewBox="0 0 343.176 107.955">
+  <g id="Group_1197" data-name="Group 1197" transform="translate(-358.824 -104.983)">
+    <g id="Group_1196" data-name="Group 1196">
+      <path id="Icon_awesome-pizza-slice" data-name="Icon awesome-pizza-slice" d="M27.927.027a5.8,5.8,0,0,0-6.21,4.239l-2.6,9.9c32.982.966,55.29,22.959,56.7,55.722l10.008-2.775a5.8,5.8,0,0,0,4.152-6.3A69.861,69.861,0,0,0,27.927.027ZM17.649,19.713.1,86.421a2.85,2.85,0,0,0,3.5,3.474L70.221,71.421c-.738-30.744-21.621-51.354-52.572-51.7ZM22.5,73.125A5.625,5.625,0,1,1,28.125,67.5,5.625,5.625,0,0,1,22.5,73.125Zm8.439-26.718a5.625,5.625,0,1,1,5.625-5.625,5.625,5.625,0,0,1-5.625,5.625ZM49.221,64.689a5.625,5.625,0,1,1,5.625-5.625,5.625,5.625,0,0,1-5.625,5.625Z" transform="translate(358.83 192.696) rotate(-77)" fill="#fff6fa"/>
+      <text id="MyPizza" transform="translate(468 180)" fill="#fff6fa" font-size="60" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">MyPizza</tspan></text>
+    </g>
+  </g>
+</svg>
+
